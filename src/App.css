@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+  color: beige;
+}
+
+.head {
+  text-align: center;
+}
+
+.page-title {
+  font-size: 3rem;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.add-new-item-area {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.error {
+  color: red;
+}
+
+.input-area {
+  padding: 20px;
+}

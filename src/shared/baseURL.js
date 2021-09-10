@@ -1,0 +1,1 @@
+export const baseUrl = 'https://gentle-citadel-91332.herokuapp.com/';
